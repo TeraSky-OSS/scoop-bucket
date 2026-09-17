@@ -1,0 +1,22 @@
+{
+    "version": "0.4.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/terasky-oss/declarative-conversion-operator/releases/download/v0.4.1/declarative-conversion-operator-cli_0.4.1_windows_amd64.zip",
+            "bin": [
+                "convctl.exe"
+            ],
+            "hash": "cf13f3dceaf4a17ddcbd8324df44a12f8806e7986c958c21826647286a8fa19d"
+        },
+        "arm64": {
+            "url": "https://github.com/terasky-oss/declarative-conversion-operator/releases/download/v0.4.1/declarative-conversion-operator-cli_0.4.1_windows_arm64.zip",
+            "bin": [
+                "convctl.exe"
+            ],
+            "hash": "1c17d6492246d5dd35e6ff74e70365ad785e975da76a4640d551860a0de4c5fd"
+        }
+    },
+    "homepage": "https://terasky-oss.github.io/declarative-conversion-operator/",
+    "license": "Apache-2.0",
+    "description": "CLI for the declarative conversion operator"
+}
